@@ -21,4 +21,5 @@ INSTALLED_APPS += (
 
 INSTALLED_APPS += (
     'apps.hello',
+    'apps.polls',
 )
