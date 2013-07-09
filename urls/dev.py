@@ -13,3 +13,7 @@ urlpatterns += (
 )
 
 urlpatterns += staticfiles_urlpatterns()
+
+urlpatterns += (
+    url(r'', include('apps.hello.urls')),
+)

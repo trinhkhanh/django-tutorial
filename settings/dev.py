@@ -17,4 +17,5 @@ INSTALLED_APPS += (
     'debug_toolbar',
     'compressor',
     'teracy.html5boilerplate',
+    'apps.hello',
 )
