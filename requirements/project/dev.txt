@@ -1,0 +1,2 @@
+# project specific requirements for development mode
+git+git://github.com/teracy-official/teracy-html5boilerplate.git@master#egg=teracy-html5boilerplate
